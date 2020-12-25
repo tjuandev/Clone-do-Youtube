@@ -1,0 +1,38 @@
+form {
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+  align-self: flex-start;
+
+  display: flex;
+  justify-content: center;
+}
+
+#searchVideos {
+  width: 600px;
+  height: 35px;
+  font-size: 1.15rem;
+
+  border: none;
+  border-radius: 3.5px;
+  outline: none;
+
+  padding: 0.3rem;
+}
+
+/* Media Querries */
+
+@media (max-width: 764px) {
+  form {
+    margin-bottom: 1rem;
+  }
+
+  #searchVideos {
+    width: 320px;
+  }
+}
+
+@media (max-width: 415px) {
+  #searchVideos {
+    width: 280px;
+  }
+}
