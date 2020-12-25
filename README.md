@@ -5,7 +5,11 @@
 <h2>Tópicos</h2>
 
 <ul>
-  <li><a href="#sobre" color="">Screenshots</a></li>
-  <li><a href="#sobre">Tecnologias</a></li>
+  <li><a href="#screenshots" color="">Screenshots</a></li>
+  <li><a href="#tecno">Tecnologias</a></li>
   <li><a href="#sobre">Autor</a></li>
 </ul>
+
+<h2 id="screenshots">Screenshots</h2>
+<h2 id="tecno">Tecnologias</h2>
+<h3 id="autor">Autor</h3>
