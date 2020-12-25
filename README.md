@@ -12,4 +12,4 @@
 
 <h2 id="screenshots">Screenshots</h2>
 <h2 id="tecno">Tecnologias</h2>
-<h3 id="autor">Autor</h3>
+<h2 id="autor">Autor</h2>
