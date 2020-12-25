@@ -4,6 +4,6 @@
 
 <h2>Tópicos</h2>
 
-<a href="#sobre" color="black">Screenshots</a>
+<a href="#sobre" style="color: black">Screenshots</a>
 <a href="#sobre">Tecnologias</a>
 <a href="#sobre">Autor</a>
