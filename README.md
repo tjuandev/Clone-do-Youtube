@@ -8,8 +8,8 @@
 
 <ul>
   <li><a href="#screenshots" color="">Screenshots</a></li>
-  <li><a href="#tecno">Tecnologias</a></li>
-  <li><a href="#sobre">Autor</a></li>
+  <li><a href="#tecno" color="">Tecnologias</a></li>
+  <li><a href="#sobre" color="">Autor</a></li>
 </ul>
 
 <h2 id="screenshots">Screenshots</h2>
