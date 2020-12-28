@@ -16,15 +16,15 @@
 
 Desktop - Inicialização
 
-![Alt text](./screenshots/screen1.png?raw=true "Title")
+##### ![Alt text](./screenshots/screen1.png?raw=true "Title")
 
 Desktop - Pesquisa Qualquer
 
-![Alt text](./screenshots/screen2.png?raw=true "Title")
+##### ![Alt text](./screenshots/screen2.png?raw=true "Title")
 
 Mobile - Inicialização
 
-![Alt text](./screenshots/screen3.jpg?raw=true "Title")
+##### ![Alt text](./screenshots/screen3.jpg?raw=true "Title")
 
 <h2 id="tecno">Tecnologias</h2>
 
