@@ -32,7 +32,7 @@ Mobile - Inicialização
 2. API Youtube DATA v3
 3. Axios 
 
-<h2 id="autor">Autor</h2>
+<h2 id="sobre">Autor</h2>
 
 Na data do repositório sou Thiago Juan e sou um programador FrontEnd de 16 anos com uma paixão imensa por desenvolvimento web no geral, tendo um sonho de um dia se tornar um ótimo Full-Stack. Se caso queira entrar em contato comigo, aqui vai redes alternativas:
 
