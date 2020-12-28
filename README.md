@@ -24,4 +24,5 @@
 Na data do repositório sou Thiago Juan e sou um programador FrontEnd de 16 anos com uma paixão imensa por desenvolvimento web no geral, tendo um sonho de um dia se tornar um ótimo Full-Stack. Se caso queira entrar em contato comigo, aqui vai redes alternativas:
 
 [LinkedIn](https://www.linkedin.com/in/thiago-juan-4725771b4/)
-[Instagram](https://www.instagram.com/tjuan.dev/)
+
+[Instagram](https://www.instagram.com/tjuan.dev/) Aqui eu posto mais sobre o meu cotidiano como Desenvolvedor e ajudo a outras pessoas :)
