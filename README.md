@@ -6,11 +6,10 @@
 
 
 
-<ul>
-  <li><a href="#screenshots" color="">Screenshots</a></li>
-  <li><a href="#tecno" color="">Tecnologias</a></li>
-  <li><a href="#sobre" color="">Autor</a></li>
-</ul>
+
+## Screenshots
+## Tecnologias
+## Autor
 
 <h2 id="screenshots">Screenshots</h2>
 
