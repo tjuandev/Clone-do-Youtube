@@ -1,6 +1,6 @@
 <h1><a href="https://7-youtube-hooks-two.vercel.app/" style="color: black;">🔗 YoutubeClone</a></h1>
 
-<p>Aplicação React que eu fiz no intuito de aprender React Hooks System e aprimorar manejo com API's.</p>
+<p>Aplicação que se conecta com a API do Youtube e te permite pesquisar pelos seus vídeos e assistir na própria.</p>
 
 <h2>Tópicos</h2>
 
