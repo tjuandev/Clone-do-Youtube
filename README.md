@@ -24,7 +24,7 @@ Desktop - Pesquisa Qualquer
 
 Mobile - Inicialização
 
-##### ![Alt text](./screenshots/screen3.jpg =300x)
+##### ![Alt text](./screenshots/screen3.jpg=300x)
 
 <h2 id="tecno">Tecnologias</h2>
 
