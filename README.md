@@ -16,11 +16,11 @@
 
 Desktop - Inicialização
 
-##### <img src="./screenshots/screen1.png" alt="desktop-requisition" width="550px"/>
+##### <img src="./screenshots/screen1.png" alt="desktop-requisition" width="700px"/>
 
 Desktop - Pesquisa Qualquer
 
-##### <img src="./screenshots/screen2.png" alt="desktop-requisition" width="550px"/>
+##### <img src="./screenshots/screen2.png" alt="desktop-requisition" width="700px"/>
 
 Mobile - Inicialização
 
